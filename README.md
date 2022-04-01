@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Newton
+- 👋 Hi, I’m @Newtonmore
 - 👀 I’m interested in coding, photography, art, music. 
 - 🌱 I’m currently learning python. I'm new to coding. 
 - 💞️ I’m looking to collaborate on......
